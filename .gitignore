@@ -1,0 +1,9 @@
+# IDE
+.vs
+.idea
+/**/.vs
+/**/.idea
+
+# Project Build
+/**/bin
+/**/obj
