@@ -1,5 +1,5 @@
 # RateLimitingTest
-A simple tool to test if the implemented rate limiting is working correctly.
+With this tool, you can spawn a given amount of simultaneous GET-Request to trigger the rate limiting of a target. As result, you get an overview over all executed request and their response from the target.  So you can verify that the implemented rate limit is working as expected.
 
 ## Usage
 1. Download the latest [Release](https://github.com/TeraNovaLP/RateLimitingTest/releases) and unzip it.
