@@ -11,7 +11,7 @@ namespace RateLimitingTest
 
         static void Main(string[] args)
         {
-            Console.Write("Target Url: ");
+            Console.Write("Target Url (Must start with http:// or https://): ");
             var targetUrl = Console.ReadLine();
 
             Console.Write("How many Requests?: ");
